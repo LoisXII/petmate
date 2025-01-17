@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83601296180",
+    "project_id": "pet-mate-5000f",
+    "storage_bucket": "pet-mate-5000f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83601296180:android:af8bad99535ca449d2f361",
+        "android_client_info": {
+          "package_name": "com.loay.petmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4wGacZQ0dlat2JEBI4M2EpvuVPJoYFdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83601296180:android:2e6a8b369d161880d2f361",
+        "android_client_info": {
+          "package_name": "com.loay.petmate_controller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4wGacZQ0dlat2JEBI4M2EpvuVPJoYFdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
